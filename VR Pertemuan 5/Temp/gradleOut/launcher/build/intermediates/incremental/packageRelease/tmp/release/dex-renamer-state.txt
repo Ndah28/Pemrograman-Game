@@ -1,0 +1,4 @@
+#Tue Sep 29 14:52:36 ICT 2020
+base.0=F\:\\TI smt 7\\Pemrograman Game\\VR Pertemuan 5\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
