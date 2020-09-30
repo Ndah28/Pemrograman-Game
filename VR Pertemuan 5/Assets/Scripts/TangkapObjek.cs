@@ -37,7 +37,7 @@ public class TangkapObjek : MonoBehaviour
                 bola.transform.SetParent(null);
                 bola.transform.localPosition = posisiBola;
 
-                // jika bola tidak tertangkap warna menjadi merah
+                // jika bola tidak tertangkap warna jadi merah
                 tertangkap = false;
                 bola.GetComponent<Renderer>().material.color = Color.red;
             }
